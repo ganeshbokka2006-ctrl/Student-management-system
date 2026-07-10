@@ -1,0 +1,5 @@
+Ganesh,101,Bsc Cs
+Hemanth,102,Bsc Cs
+Sai,103,Bsc Cs
+prakash,104,Bsc cs
+Ram,105,Bsc Cs
